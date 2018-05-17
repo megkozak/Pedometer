@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  pedometer
 //
-//  Created by Jake Benton on 5/1/18.
+//  Created by Jake Benton & Meg Kozak on 5/1/18.
 //
 
 import UIKit
